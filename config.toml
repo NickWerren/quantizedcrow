@@ -1,0 +1,4 @@
+baseURL = "http://www.quantizedcrow.com/"
+languageCode = "en-us"
+title = "Quantized Crow"
+theme = "cupper-hugo-theme"
